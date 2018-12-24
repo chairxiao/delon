@@ -41,7 +41,7 @@ ng-alain 认为这些工具类只会运用在内容区域，且秉承 Ant Design
 ```css
 .p-sm { padding: 8px !important; }
 .pt-sm { padding-top: 8px !important; }
-.m-sm { margin: 16px !important; }
+.m-md { margin: 16px !important; }
 .mt-md { margin-top: 16px !important; }
 
 .p0 { padding: 0 !important; }
